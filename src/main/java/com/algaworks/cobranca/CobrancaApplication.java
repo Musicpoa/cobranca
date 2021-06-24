@@ -30,6 +30,7 @@ public class CobrancaApplication {
 	}
 	
 	
+	@SuppressWarnings("deprecation")
 	@Configuration
 	public static class MvcConfig extends WebMvcConfigurerAdapter {
 		
